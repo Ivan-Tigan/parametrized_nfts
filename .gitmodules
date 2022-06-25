@@ -1,0 +1,3 @@
+[submodule "weather_ball"]
+	path = weather_ball
+	url = git@github.com:aled676/weather_ball.git

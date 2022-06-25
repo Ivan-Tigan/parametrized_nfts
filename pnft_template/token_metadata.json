@@ -1,0 +1,23 @@
+{
+    "name": "Parametrized NFT Template",
+    "description": "Parametrized NFT Template",
+    "tags": [
+    ""
+    ],
+    "symbol": "OBJKT",
+    "artifactUri": "ipfs://QmVvswj5zLZYoQ8p3kqzfg8r9qSVacMRxbGb17VbshBM89",
+    "displayUri": "ipfs://QmQPQF8NZunar8nbAmEkW4ui9jw8BuTviNfiHGrj9goktq",
+    "thumbnailUri": "ipfs://QmNrhZHUaEqxhyLfqoq1mtHSipkWHeT31LNHb1QEbDHgnc",
+    "creators": [
+    "tz1ML9gAMzYHsw2J5dggpzoTNZtkGrZGMG8Q"
+    ],
+    "formats": [
+    {
+    "uri": "ipfs://QmVvswj5zLZYoQ8p3kqzfg8r9qSVacMRxbGb17VbshBM89",
+    "mimeType": "application/x-directory"
+    }
+    ],
+    "decimals": 0,
+    "isBooleanAmount": false,
+    "shouldPreferSymbol": false
+    }
